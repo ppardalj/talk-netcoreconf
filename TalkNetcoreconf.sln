@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exeal.Katas.TellDontAsk", "tell-dont-ask-kata\Exeal.Katas.TellDontAsk\Exeal.Katas.TellDontAsk.csproj", "{942CC33F-1E74-4429-9728-BDBD317D70D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exeal.Katas.TellDontAsk.Tests", "tell-dont-ask-kata\Exeal.Katas.TellDontAsk.Tests\Exeal.Katas.TellDontAsk.Tests.csproj", "{9210351E-5971-4DDD-911E-5359B9FF68AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripServiceKata", "trip-service-kata\TripServiceKata\TripServiceKata.csproj", "{B3F57277-92E5-446A-88B5-C4D1E0148CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripServiceKata.Tests", "trip-service-kata\TripServiceKata.Tests\TripServiceKata.Tests.csproj", "{A8C54B91-03F5-49A9-8B40-ECF0281814E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{942CC33F-1E74-4429-9728-BDBD317D70D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942CC33F-1E74-4429-9728-BDBD317D70D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942CC33F-1E74-4429-9728-BDBD317D70D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942CC33F-1E74-4429-9728-BDBD317D70D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9210351E-5971-4DDD-911E-5359B9FF68AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9210351E-5971-4DDD-911E-5359B9FF68AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9210351E-5971-4DDD-911E-5359B9FF68AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9210351E-5971-4DDD-911E-5359B9FF68AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F57277-92E5-446A-88B5-C4D1E0148CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F57277-92E5-446A-88B5-C4D1E0148CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F57277-92E5-446A-88B5-C4D1E0148CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F57277-92E5-446A-88B5-C4D1E0148CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C54B91-03F5-49A9-8B40-ECF0281814E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C54B91-03F5-49A9-8B40-ECF0281814E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C54B91-03F5-49A9-8B40-ECF0281814E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C54B91-03F5-49A9-8B40-ECF0281814E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
